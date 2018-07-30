@@ -44,8 +44,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.practicalversatility.com" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
-github_url:
+facebook_url: 
+github_url: https://github.com/YassSoliman
 googleplus_url:
 instagram_url:
 linkedin_url:
@@ -54,7 +54,7 @@ slack_url:
 twitter_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-123120819-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: chrisbobbe/jekyll-theme-prologue

@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 {%- include header.html -%}
 
@@ -14,5 +15,6 @@ layout: default
 			</header>
 	    {{- content -}}
 	  </div>
+      {% include disqus.html %}
 	</article>
 </div>

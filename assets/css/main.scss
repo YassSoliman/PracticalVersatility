@@ -6,3 +6,11 @@
 #nav ul li a.active span:before {
     color: #769ae2;
 }
+
+#main>section.shade-two, #main article.shade-two {
+    background-color: #f1fbfb;
+}
+
+.item {
+    box-shadow: 0 0 1.5em 0.1em rgb(168, 194, 208);
+}
